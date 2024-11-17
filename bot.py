@@ -1,5 +1,7 @@
 import os
-#e
+os.system('pip install disnake')
+os.system('pip install asyncio')
+os.system('pip install aiohttp')
 import aiohttp
 import disnake as discord
 import time
